@@ -1,0 +1,4 @@
+pyshred
+matplotlib
+numpy
+jupyter
