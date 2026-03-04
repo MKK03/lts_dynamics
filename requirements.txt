@@ -1,4 +1,5 @@
-pyshred
-matplotlib
 numpy
+matplotlib
 jupyter
+setuptools<81
+pyshred
