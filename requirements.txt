@@ -2,4 +2,5 @@ numpy
 matplotlib
 jupyter
 setuptools<81
+scikit-learn=1.7.2
 pyshred

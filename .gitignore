@@ -2,3 +2,6 @@ venv
 .venv
 condaenv.7bdubqvd.requirements.txt
 1dks.npy
+__pycache__
+forecast_vs_gt.gif
+reconstructed_vs_gt.gif
